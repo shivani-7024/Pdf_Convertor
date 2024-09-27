@@ -33,6 +33,11 @@ The **PDF Converter** Android app enables users to convert text or images into P
 
 ## Screenshots
 ![TextToPDF](app/src/main/java/Screenshots/Home.jpeg)
+![TextToPDF](app/src/main/java/Screenshots/Image to Pdf.jpeg)
+![TextToPDF](app/src/main/java/Screenshots/Text to PDf.jpeg)
+
+
+
 
 ## License
 This project is licensed under the MIT License.
