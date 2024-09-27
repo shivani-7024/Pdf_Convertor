@@ -1,6 +1,7 @@
 PDF Converter Android App
 
 ## Overview
+
 The **PDF Converter** Android app enables users to convert text or images into PDF files. It provides two primary functions:
 1. **Text to PDF**: Users can type text, which is then saved as a PDF document.
 2. **Image to PDF**: Users can select an image from their device and convert it to a PDF file.
