@@ -32,8 +32,7 @@ The **PDF Converter** Android app enables users to convert text or images into P
 4. The PDF file is saved in your device’s **Downloads/PDFs** folder.
 
 ## Screenshots
-![TextToPDF](screenshots/text_to_pdf.png)
-![ImageToPDF](screenshots/image_to_pdf.png)
+![TextToPDF](screenshots/Home)
 
 ## License
 This project is licensed under the MIT License.
